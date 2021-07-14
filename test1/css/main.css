@@ -1,0 +1,73 @@
+.atv1 {
+    padding: 10px;
+    margin: 10px 350px 10px 475px;
+    background-color: #ededed;
+    color: rgb(104, 63, 104);
+    width: fit-content;
+}
+
+.atv2 {
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 5px solid rgb(255, 145, 0);
+    background-color: #ededed;
+    color: rgb(255, 145, 0);
+    width: fit-content;
+}
+
+.atv3 {
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 5px solid rgb(117, 43, 43);
+    background-color: #ededed;
+    color: rgb(117, 43, 43);
+    width: fit-content;
+}
+
+.atv4 {
+    padding: 10px;
+    margin: 10px;
+    border-bottom: 5px solid rgb(255, 0, 0);
+    background-color: #ededed;
+    color: rgb(255, 0, 0);
+    width: fit-content;
+}
+
+.atv5 {
+    padding: 10px;
+    margin: 10px 50px;
+    border-left: 5px solid rgb(0, 68, 255);
+    background-color: #ededed;
+    color: rgb(0, 68, 255);
+    width: fit-content;
+}
+
+.img1 {
+    padding: 0px 950px 0px 950px;
+    margin: 0px 100px 0px 100px;
+}
+
+.img2 {
+    margin: 5px 500px;
+}
+
+.txt1 {
+    padding: 5px 10px;
+    margin: 20px 30px;
+    width: fit-content;
+    background-color: rgb(236, 152, 152)
+}
+
+.txt2 {
+    padding: 10px 16px;
+    margin: 10px 40px;
+    background-color: rgb(236, 152, 152);
+    width: fit-content;
+}
+
+.txt3 {
+    padding: 10px;
+    margin: 10px 25px 10px 70px;
+    background-color: rgb(236, 152, 152);
+    width: fit-content;
+}
